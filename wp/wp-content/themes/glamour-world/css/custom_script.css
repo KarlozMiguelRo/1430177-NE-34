@@ -1,0 +1,27 @@
+/* Custom css code */
+a, .recent_articles h2 a:hover,
+#sidebar ul li a:hover,									
+.recent_articles h3 a:hover,					
+.recent-post h6:hover,					
+.page-four-column:hover h3,												
+.postmeta a:hover,
+.social-icons a:hover
+{ color:#f9c700; }
+ 
+.pagination ul li .current, .pagination ul li a:hover, 
+#commentform input#submit:hover,					
+.nivo-controlNav a.active,
+.learnmore,					
+.appbutton:hover,					
+#sidebar .search-form input.search-submit,				
+.wpcf7 input[type='submit'],
+#featureswrap,
+.column-3:hover .learnmore,
+nav.pagination .page-numbers.current,
+.slide_info .slide_more:hover,
+#sectiopn-first,
+.header-menu ul li a:hover, 
+.header-menu ul li.current-menu-item a,
+.header-menu ul li.current-menu-parent a.parent,
+.header-menu ul li.current-menu-item ul.sub-menu li a:hover			
+{ background-color:#f9c700; }

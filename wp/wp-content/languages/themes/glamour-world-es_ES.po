@@ -1,0 +1,319 @@
+# Translation of Themes - Glamour World in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Glamour World package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-03 08:46:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Glamour World\n"
+
+#. Description of the theme
+msgid "Glamour World is a modern, clean, attractive lifestyle and fashion related WordPress theme. This theme is designed to use for designer agency, lifestyle, personal, blogs, photography and many different business and professional websites. It is very easy to setup and it comes with all the basic features that is needed to create your own website.  Demo Link: https://www.gracethemes.com/demo/glamour-world/"
+msgstr ""
+"Glamour-world es un tema de WordPress relacionado con la moda y un estilo de vida moderno, limpio, y atractivo. Este tema está diseñado para ser utilizado por agencias de diseño, blogs personales, de estilos de vida, de fotografía y diferentes sitios empresariales o profesionales. Es muy fácil de configurar y viene con todas las características básicas necesarias para crear tu propio sitio web.\n"
+"https://www.gracethemes.com/demo/glamour-world/"
+
+#. Theme Name of the theme
+msgid "Glamour World"
+msgstr "Glamour World"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "¿Estás listo para publicar tu primera entrada? Empieza aquí."
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en «%s»"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Archivos"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Categoría"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Buscar..."
+
+#. translators: %s: search term
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez una nueva búsqueda pueda ayudar."
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: inc/customizer.php:249
+msgid "Check To show This Section"
+msgstr "Marca para mostrar esta sección"
+
+#: inc/customizer.php:235
+msgid "Add linkedin link here"
+msgstr "Añade aquí el enlace a LinkedIn"
+
+#: inc/customizer.php:226
+msgid "Add google plus link here"
+msgstr "Añade aquí el enlace a Google Plus"
+
+#: inc/customizer.php:217
+msgid "Add twitter link here"
+msgstr "Añade aquí el enlace a Twitter"
+
+#: inc/customizer.php:207
+msgid "Add facebook link here"
+msgstr "Añade aquí el enlace a Facebook"
+
+#: inc/customizer.php:198
+msgid "Add social icons link here to display in header"
+msgstr "Añade aquí los enlaces de los iconos sociales para mostrarlos en la cabecera"
+
+#: inc/customizer.php:197
+msgid "Header section social icons"
+msgstr "Iconos sociales de la sección de la cabecera"
+
+#: inc/customizer.php:167
+msgid "Select Pages from the dropdown for We are Fashioners section"
+msgstr "Selecciona páginas desde el menú desplegable para somos la sección de diseño"
+
+#: inc/customizer.php:166
+msgid "We are Fashioners Section"
+msgstr "Sección «Somos estilistas»"
+
+#: inc/customizer.php:113
+msgid "Select pages from the dropdown for three column Services Page section"
+msgstr "Selecciona páginas del menú despegable para la sección de servicios de página de tres columnas"
+
+#: inc/customizer.php:112
+msgid "Services Page Section"
+msgstr "Sección de la página de servicios"
+
+#: inc/customizer.php:106 inc/customizer.php:159 inc/customizer.php:192
+msgid "Check To Show This Section"
+msgstr "Marca para mostrar esta sección"
+
+#: inc/customizer.php:93
+msgid "Select page for slide three:"
+msgstr "Selecciona una página para la tercera diapositiva:"
+
+#: inc/customizer.php:81
+msgid "Select page for slide two:"
+msgstr "Selecciona una página para la segunda diapositiva:"
+
+#: inc/customizer.php:69
+msgid "Select page for slide one:"
+msgstr "Selecciona una página para la primera diapositiva:"
+
+#: inc/customizer.php:58
+msgid "Default image size for slider is 1400 x 717 pixel."
+msgstr "El tamaño de la imagen por defecto para el carrusel es 1400 x 717 pixel."
+
+#: inc/customizer.php:56
+msgid "Slider Section"
+msgstr "Sección del carrusel"
+
+#: inc/customizer.php:48
+msgid "More color options in PRO Version"
+msgstr "Más opciones de color en la versión PRO"
+
+#: inc/customizer.php:47
+msgid "Color Scheme"
+msgstr "Esquema de color"
+
+#: inc/customizer.php:36
+msgid "if you want to box layout please check the Box Layout Option."
+msgstr "si quieres el diseño de la caja, marca la opción de diseño de la caja."
+
+#: inc/customizer.php:35
+msgid "Check to Box Layout"
+msgstr "Marca para diseño encajonado"
+
+#: inc/customizer.php:25
+msgid "Site Layout"
+msgstr "Diseño del sitio"
+
+#: inc/about-themes.php:52
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/about-themes.php:51
+msgid "Purchase Pro"
+msgstr "Compra la versión Pro"
+
+#: inc/about-themes.php:50
+msgid "Live Demo"
+msgstr "Demostración en vivo"
+
+#: inc/about-themes.php:43
+msgid "Fully compatible with WooCommerce plugin. Just install the plugin and turn your site into a full featured online shop and start selling products."
+msgstr "Totalmente compatible con el plugin WooCommerce. Simplemente instala el plugin, convierte tu sitio en una tienda en línea con todas las funciones y comienza a vender tus productos."
+
+#: inc/about-themes.php:42
+msgid "E-commerce"
+msgstr "Comercio electrónico"
+
+#: inc/about-themes.php:38
+msgid "Our themes are tested in all mordern web browsers and compatible with the latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr "Nuestros temas se prueban en todos los navegadores actuales y son compatibles con las últimas versiones, incluidos Chrome, Firefox, Safari, Opera, IE11 y versiones superiores."
+
+#: inc/about-themes.php:37
+msgid "Cross Browser Compatible"
+msgstr "Compatibilidad entre navegadores"
+
+#: inc/about-themes.php:33
+msgid "The themes layout will automatically adjust and fit on any screen resolution and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr "El diseño de los temas se ajusta automáticamente y se adapta a cualquier resolución de pantalla. Se verá genial en cualquier dispositivo. Totalmente optimizado para iPhone y iPad."
+
+#: inc/about-themes.php:32
+msgid "Responsive Ready"
+msgstr "Adaptable a móviles"
+
+#: inc/about-themes.php:28
+msgid "The built-in customizer panel quickly change aspects of the design and display changes live before saving them."
+msgstr "El panel de personalización incorporado cambia rápidamente aspectos del diseño y permite visualizar los cambios antes de guardarlos."
+
+#: inc/about-themes.php:27
+msgid "Theme Customizer"
+msgstr "Personalizador del tema"
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr "Características del tema"
+
+#: inc/about-themes.php:22
+msgid "glamour-world is a modern, clean, attractive lifestyle and fashion related WordPress theme. This theme is designed to use for designer agency, lifestyle, personal, blogs, photography and many different business and professional websites. It is very easy to setup and it comes with all the basic features that is needed to create your own website."
+msgstr "Glamour-world es un tema de WordPress relacionado con la moda y un estilo de vida moderno, limpio, y atractivo. Este tema está diseñado para ser utilizado por agencias de diseño, blogs personales, de estilos de vida, de fotografía y diferentes sitios empresariales o profesionales. Es muy fácil de configurar y viene con todas las características básicas necesarias para crear tu propio sitio web."
+
+#: inc/about-themes.php:11 inc/about-themes.php:20
+msgid "About Theme Info"
+msgstr "Información sobre el tema"
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Siguiente <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: header.php:193
+msgid "Read More"
+msgstr "Leer más"
+
+#: header.php:93
+msgid "Menu"
+msgstr "Menú"
+
+#. Translators: If there are any character that are not * supported by Roboto,
+#. trsnalate this to off, do not * translate into your own language.
+#: functions.php:80
+msgctxt "Roboto:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:61
+msgid "Appears on the site header"
+msgstr "Aparece en la cabecera del sitio"
+
+#: functions.php:60
+msgid "Header Widget"
+msgstr "Widget de cabecera"
+
+#: functions.php:51
+msgid "Appears on blog page sidebar"
+msgstr "Aparece en la barra lateral de la página del blog"
+
+#: functions.php:50
+msgid "Blog Sidebar"
+msgstr "Barra lateral del blog"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#. translators: %s: WordPress.
+#: footer.php:20
+msgid "Theme by %s"
+msgstr "Tema por %s"
+
+#: footer.php:14
+msgid "All Rights Reserved"
+msgstr "Todos los derechos reservados"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "Leer más &raquo;"
+
+#: content-page.php:23 image.php:30 image.php:62 content-single.php:38
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:18 content.php:35 template-full-width.php:24 image.php:56
+#: content-single.php:27
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....<br />Don't worry... it happens to the best of us."
+msgstr "Parece que has tomado un camino equivocado...<br />No te preocupes, nos puede pasar a cualquiera."
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#. Author URI of the theme
+msgid "https://gracethemes.com/"
+msgstr "https://gracethemes.com/"
+
+#. Author of the theme
+msgid "Grace Themes"
+msgstr "Tema Grace"
+
+#. Theme URI of the theme
+msgid "https://gracethemes.com/themes/glamour-world/"
+msgstr "https://gracethemes.com/themes/glamour-world/"
