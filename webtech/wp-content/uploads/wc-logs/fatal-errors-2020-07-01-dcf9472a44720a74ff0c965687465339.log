@@ -1,0 +1,30 @@
+2020-07-01T23:17:35+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 163840 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 297
+
+2020-07-01T23:17:36+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes) en /var/www/html/wp-content/plugins/the-events-calendar/src/Tribe/Query.php en la línea 201
+
+2020-07-01T23:17:36+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 69632 bytes) en /var/www/html/wp-content/plugins/mailpoet/lib/AutomaticEmails/AutomaticEmails.php en la línea 54
+
+2020-07-01T23:18:29+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/class-wp-hook.php en la línea 77
+
+2020-07-01T23:18:36+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 135168 bytes) en /var/www/html/wp-includes/pomo/streams.php en la línea 113
+
+2020-07-01T23:18:41+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 135168 bytes) en /var/www/html/wp-includes/pomo/streams.php en la línea 113
+
+2020-07-01T23:19:25+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 163840 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 297
+
+2020-07-01T23:20:19+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 69632 bytes) en /var/www/html/wp-content/plugins/mailpoet/lib/AutomaticEmails/AutomaticEmails.php en la línea 54
+
+2020-07-01T23:20:24+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 135168 bytes) en /var/www/html/wp-includes/pomo/streams.php en la línea 113
+
+2020-07-01T23:28:48+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 323
+
+2020-07-01T23:32:42+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 323
+
+2020-07-01T23:33:17+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 98304 bytes) en /var/www/html/wp-admin/import.php en la línea 216
+
+2020-07-01T23:33:19+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 323
+
+2020-07-01T23:35:14+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 323
+
+2020-07-01T23:55:15+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) en /var/www/html/wp-content/plugins/mailpoet/lib/Models/ModelValidator.php en la línea 64
+

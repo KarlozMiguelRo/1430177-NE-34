@@ -1,0 +1,14 @@
+2020-06-11T18:48:51+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slider.class.php on line 316
+
+2020-06-11T18:49:28+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 53248 bytes) in /var/www/html/wp-includes/wp-db.php on line 1995
+
+2020-06-11T18:59:31+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-taxes-v2-controller.php on line 0
+
+2020-06-11T18:59:31+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in /var/www/html/wp-includes/class-wp-hook.php on line 281
+
+2020-06-11T18:59:31+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/woocommerce/vendor/autoload_packages.php on line 168
+
+2020-06-11T18:59:31+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/woocommerce/vendor/autoload_packages.php on line 168
+
+2020-06-11T18:59:31+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wp-includes/rest-api/endpoints/class-wp-rest-controller.php on line 615
+

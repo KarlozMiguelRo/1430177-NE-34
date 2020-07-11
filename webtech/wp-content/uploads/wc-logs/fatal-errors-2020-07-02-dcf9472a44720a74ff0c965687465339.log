@@ -1,0 +1,44 @@
+2020-07-02T00:16:24+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 167936 bytes) en /var/www/html/wp-includes/pomo/streams.php en la línea 205
+
+2020-07-02T00:16:33+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 159744 bytes) en /var/www/html/wp-content/plugins/jetpack/locales.php en la línea 2361
+
+2020-07-02T00:16:46+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 167936 bytes) in /var/www/html/wp-includes/pomo/streams.php on line 205
+
+2020-07-02T00:22:08+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 159744 bytes) en /var/www/html/wp-content/plugins/jetpack/locales.php en la línea 2361
+
+2020-07-02T00:23:38+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 167936 bytes) in /var/www/html/wp-includes/pomo/streams.php on line 205
+
+2020-07-02T00:40:35+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 69632 bytes) en /var/www/html/wp-content/plugins/wordpress-seo/admin/class-admin-init.php en la línea 361
+
+2020-07-02T00:43:57+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 163840 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 297
+
+2020-07-02T01:19:56+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 266240 bytes) in /var/www/html/wp-includes/pomo/streams.php on line 113
+
+2020-07-02T01:21:27+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) en /var/www/html/wp-content/themes/good-food/framework/admin/settings/cmsmasters-theme-settings.php en la línea 1695
+
+2020-07-02T01:22:21+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 126976 bytes) en /var/www/html/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-07-02T01:23:15+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 126976 bytes) en /var/www/html/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/database/class-ai1wm-database-mysqli.php en la línea 56
+
+2020-07-02T01:24:10+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 167936 bytes) in /var/www/html/wp-includes/pomo/streams.php on line 205
+
+2020-07-02T01:26:05+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 401408 bytes) in /var/www/html/wp-includes/pomo/streams.php on line 205
+
+2020-07-02T01:28:05+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/functions.php en la línea 578
+
+2020-07-02T01:32:26+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 163840 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 297
+
+2020-07-02T01:46:21+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 69632 bytes) en /var/www/html/wp-content/plugins/wordpress-seo/admin/class-admin-init.php en la línea 361
+
+2020-07-02T02:44:15+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 163840 bytes) en /var/www/html/wp-includes/pomo/mo.php en la línea 297
+
+2020-07-02T03:18:57+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 516096 bytes) en /var/www/html/wp-content/plugins/all-in-one-wp-migration/lib/vendor/servmask/archiver/class-ai1wm-compressor.php en la línea 95
+
+2020-07-02T03:20:54+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 12288 bytes) en /var/www/html/wp-includes/pomo/streams.php en la línea 113
+
+2020-07-02T03:21:03+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) en /var/www/html/wp-content/plugins/revslider/includes/slide.class.php en la línea 55
+
+2020-07-02T03:26:19+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 401408 bytes) in /var/www/html/wp-includes/pomo/streams.php on line 205
+
+2020-07-02T03:26:28+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 401408 bytes) in /var/www/html/wp-includes/pomo/streams.php on line 205
+

@@ -1,0 +1,26 @@
+2020-06-12T00:05:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 159744 bytes) in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+
+2020-06-12T00:06:00+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slide.class.php on line 2088
+
+2020-06-12T00:06:01+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slide.class.php on line 2088
+
+2020-06-12T00:06:01+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slider.class.php on line 316
+
+2020-06-12T00:06:13+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slide.class.php on line 2088
+
+2020-06-12T00:06:19+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slide.class.php on line 2088
+
+2020-06-12T00:06:24+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slider.class.php on line 316
+
+2020-06-12T00:06:39+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slide.class.php on line 2088
+
+2020-06-12T00:06:39+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slide.class.php on line 2088
+
+2020-06-12T00:06:45+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wp-includes/wp-db.php on line 1995
+
+2020-06-12T00:06:45+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 49152 bytes) in /var/www/html/wp-includes/wp-db.php on line 2030
+
+2020-06-12T00:06:49+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wp-content/plugins/revslider/includes/slide.class.php on line 2088
+
+2020-06-12T00:19:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in /var/www/html/wp-includes/class-wp-image-editor-gd.php on line 189
+
